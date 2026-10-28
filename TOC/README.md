@@ -2,9 +2,7 @@
 
 ## RISC-V Bare Metal Programming with the Raspberry Pi Pico 2
 
-
-
-**[TOC 3 level](A_Makers_Guide_to_RISC-V_Assembly_TOC.pdf)**
+**[TOC](A_Makers_Guide_to_RISC-V_Assembly_TOC.pdf)**
 
 **[TOC 3 level](A_Makers_Guide_to_RISC-V_Assembly_TOC_3.pdf)**
 
